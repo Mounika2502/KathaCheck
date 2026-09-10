@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💳 KathaCheck 2.0 — Multi-Partner Finance & Weekly Collection System
 
 **KathaCheck** is a collaborative microfinance, community lending, and weekly/monthly collection management platform engineered for partnerships and individual financiers who pool capital, disburse loans across areas, and manage field collections with real-time transparency and financial rigor.
@@ -147,3 +148,6 @@ Run the full end-to-end test suite:
 cd backend
 python test_api.py
 ```
+=======
+# KathaCheck
+>>>>>>> 79e4b94591760ab309a8a51179e18d60cc959baa
